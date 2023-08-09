@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "nombre": "Laptop ProMax 15",
+      "descripcion": "Potente laptop con procesador de última generación, pantalla retina y amplia capacidad de almacenamiento.",
+      "precio": 899.99,
+      "imagen": "https://i.postimg.cc/ZKGLSmr7/j1.png"
+    },
+    {
+      "nombre": "Smartphone Ultra X",
+      "descripcion": "Teléfono inteligente con cámara de alta resolución, pantalla AMOLED y batería de larga duración.",
+      "precio": 599.49,
+      "imagen": "https://i.postimg.cc/8knHZMsV/j2.png"
+    },
+    {
+      "nombre": "Camiseta TechFit",
+      "descripcion": "Camiseta deportiva con tecnología de compresión para un ajuste cómodo y transpirable durante el ejercicio.",
+      "precio": 29.99,
+      "imagen": "https://i.postimg.cc/3N6FW5zw/j3.png"
+    },
+    {
+      "nombre": "Aspiradora TurboClean",
+      "descripcion": "Aspiradora de alta potencia con sistema de filtrado avanzado para una limpieza eficiente en todo tipo de superficies.",
+      "precio": 149.75,
+      "imagen": "https://i.postimg.cc/tCZzwJVn/j4.png"
+    },
+    {
+      "nombre": "Tablet ProTab 10",
+      "descripcion": "Tablet con pantalla HD, procesador rápido y capacidad para multitareas, ideal para entretenimiento y productividad.",
+      "precio": 199.99,
+      "imagen": "https://i.postimg.cc/Z56xYQHT/j5.png"
+    }
+  ]
+}
